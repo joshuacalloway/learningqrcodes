@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="JRebel Project data">
+    <option name="privateKey" value="3082025c0201000281810087ef62239cef7c555732407b886adfc501f583ef08ab30f235fb2df30e39b46609973dd987b13debeb9667520917aff9a8d9057231db81e1f1007808a5df5e4cb7951b9165ea33a4f3460d5ebde3d0376336575098ba016587d03b420220a2e16c63f815d092697b2249f41638a6c7434b9b9886ae3272e6d3c3966e120b4c5b020301000102818051af6213f07c61048f6f5d1c5eaf8a6442771c9f096085fb26c117ad9500cc0cfcfa6b6a4a8611a5b15e221c43e67e12d28a0721c62017fe83ea3a374825dfedec84b64f16366c08508dff52177813bb212d932cf71c655645f9cc499ca8360867c433cc04d69d5d56f36a736c73dd0e1939ce2a5a949a3a46abb85df019c771024100cee626f191ea220ec4de0ad44a4d33e0b762e2fb28276742a98d00f28ae88e328af673817239861fad89a7233a27d5832dbac60eb59e46e32248fb545b1bb0fd024100a831ebbefce0d022b0d7883a666ad78cb5ba62ef618f91ea51a51210467e33f58df8a7ed6eeea4cc21eaf2827de55e4b7f44af8c1ac0793f31405e4589973e3702403c403fc50776045702b39ab9b9ad83d703f093230acd76bfadfa76f52ac890685d9969879fc8eaab1cf1422ffb0690a1f3d639491d50ab5a07a8f32fdc9c52cd024031394af13e38dd3109e84a2a2d471f8642b925b3412e2f5a1042eb22703f071dda4ae77a8978b62a37d2f6de51d20ae2b580788fdc5470279a566840999ff5c902410085db0566253e13d9058e897077c89f5e75870038fc059ea76f978e29af5c24dc44c5cf642e166dcd0e1d2be3e721277c626442bcdee57e58b8e15f92adffe7ec" />
+    <option name="publicKey" value="3081890281810087ef62239cef7c555732407b886adfc501f583ef08ab30f235fb2df30e39b46609973dd987b13debeb9667520917aff9a8d9057231db81e1f1007808a5df5e4cb7951b9165ea33a4f3460d5ebde3d0376336575098ba016587d03b420220a2e16c63f815d092697b2249f41638a6c7434b9b9886ae3272e6d3c3966e120b4c5b0203010001" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qrcode.iml" filepath="$PROJECT_DIR$/qrcode.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+  <component name="libraryTable">
+    <library name="Gradle: com.google.zxing:core:3.1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.1.0/908e18674f895e3e1fa8f4a954b8c637a23d2801/core-3.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.1.0/e80b1ffab35ee2b2356ecbcbcb5601c2d36e348e/core-3.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.google.zxing:javase:3.1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/javase/3.1.0/f5765d80a466cc6548dd6b9ba6c33b379581119b/javase-3.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/javase/3.1.0/e2ca10da18dfc6e641fc6deef0c19d080f702b28/javase-3.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: junit:junit:4.11">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: net.glxn.qrgen:core:2.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.glxn.qrgen/core/2.0/a4768205c0fa814b35374bb26586900d0ef8d4fe/core-2.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.glxn.qrgen/core/2.0/eaaac19314446a094ae6de96676f9277a3de37d7/core-2.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: net.glxn.qrgen:javase:2.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.glxn.qrgen/javase/2.0/abbdc2410328feeaee6f65cb5dcaaecc04dc12a7/javase-2.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.glxn.qrgen/javase/2.0/3d4df68813484cd8a60cc7487b63f77b73ebd5f7/javase-2.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.hamcrest:hamcrest-core:1.3">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jfree:jfreesvg:2.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jfree/jfreesvg/2.1/206679ef09f39b57b2f73dc79bd09785efe007af/jfreesvg-2.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jfree/jfreesvg/2.1/4ae9f2160f46f07593dfb8a94965c8b261de6758/jfreesvg-2.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
